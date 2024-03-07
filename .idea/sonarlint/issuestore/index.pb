@@ -1,0 +1,29 @@
+
+I
+config/database.config.js,4\1\412b742f018e526c70ddf3ea1c4f73237313e632
+A
+package-lock.json,f\a\fa288d1472d29beccb489a676f68739ad365fc47
+<
+package.json,7\0\7030d0b2f71b999ff89a343de08c414af32fc93a
+9
+	server.js,d\c\dc60ea9ee1ff6246bf342463277d5b914db2883d
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+@
+model/student.js,f\4\f4ed8ee2cce649c584be422fd42af7ceca7c58d3
+^
+.node_modules/@mongodb-js/saslprep/package.json,c\9\c9124bc4574fa7a2d80091f3b866ac66572e0148
+[
++node_modules/@mongodb-js/saslprep/readme.md,4\9\49d3ad5c6d0692f5b253f8eb1c8293896641c58e
+R
+"node_modules/toidentifier/index.js,f\f\ff00ce4d5f33d627ffaaf9e3d166fdab2dbab72a
+V
+&node_modules/toidentifier/package.json,e\7\e7d3e6efc6314ca6efa4fe4c3589309d0cae1f77
+O
+node_modules/.package-lock.json,a\b\ab786baa27dc60b68537e73d8f416ba747ae2a4e
+P
+ node_modules/whatwg-url/index.js,e\f\ef4fcfa72c67963a09cd7ff016484e21448600ed
+Q
+!node_modules/mongodb/package.json,8\0\806af4fe6ab9781391ed23365af21d19332a559a
+R
+"node_modules/mongodb/tsconfig.json,8\f\8f93a30f6fcc7f377d3c5d7041b3df970e6ab318
